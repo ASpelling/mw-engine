@@ -12,7 +12,7 @@ Feature engineering
 - Industry related
 - Other influences
 
-# Clustering
+# Clustering:
 Cluster assets to indentify other Industry related features
 
 Feature engineering
@@ -20,7 +20,7 @@ Feature engineering
 - SCTR
 - Other behaviours
 
-# Feature engineering
+# Feature engineering:
 Define basic features
 Calculate features values
 Clean data
